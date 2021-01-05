@@ -4,7 +4,7 @@ A minimalist table of contents in Javascript.
 
 ## Presentation
 
-This script allow you to print a table of contents in your page. To use it, just initialize it by declaring:
+This script `minimalist-toc.js` allow you to print a table of contents in your page. To use it, just initialize it by declaring:
 
 - an id corresponding to the content of the page,
 - an id corresponding to the location of the table of contents,

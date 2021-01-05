@@ -1,4 +1,12 @@
 /**
+ * Minimalist ToC
+ *
+ * A minimalist table of contents in Javascript.
+ *
+ * @author Armand Philippot <contact@armandphilippot.com>
+ */
+
+/**
  * Convert a text into a slug or id.
  *
  * @see: https://gist.github.com/codeguy/6684588#gistcomment-3332719
